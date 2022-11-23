@@ -22,7 +22,7 @@ const initialState: covidState = {
     "detail": "https://covid19.mathdro.id/api/confirmed"
     },
     "recovered": {
-    "value": 0,
+    "value": 15,
     "detail": "https://covid19.mathdro.id/api/recovered"
     },
     "deaths": {

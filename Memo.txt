@@ -42,8 +42,14 @@ npm i @material-ui/core --legacy-peer-deps
 
 5:26 辺り
 
-npm install chart.js@2.9.3
+npm install chart.js@2.9.3 --legacy-peer-deps
 
 5:52 辺り
 
 npm install react-chartjs-2@2.9.0 --legacy-peer-deps
+
+----------------------------------------------------
+npm install react-countup --legacy-peer-deps
+
+npm install react-icons --legacy-peer-deps
+
